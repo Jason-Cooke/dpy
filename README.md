@@ -9,7 +9,7 @@
 Yes, Python is a dynamic language so dependency injection is not necessary and might seem silly... but injection of components provides more than just the ability to test statically typed languages. It can make your code clearer, assist developers with straightforward modularization, and make testing super simple. Take a look at the examples below to see how your code can be transformed.
 
 ## Examples
-Below are some simple examples for using dPy. For a complete usage example set that alse runs, check out `example.py`.
+Below are some simple examples for using dPy. For a complete usage example set that else runs, check out `example.py`.
 
 ### Simple
 Any argument can be turned into an injected argument.
